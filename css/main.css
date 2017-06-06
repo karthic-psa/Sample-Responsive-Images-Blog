@@ -1,0 +1,44 @@
+/*
+
+Your styles go here!
+
+Hint! You'll probably want to start by styling:
+  * <body>
+  * <article>
+  * <h1>
+  * <img>
+
+I've left some boilerplate below for you.
+
+*/
+
+body {
+
+}
+
+article {
+margin: auto;
+max-width: 50em;
+border-bottom: 2px solid #ddd;
+}
+ article p{
+   font-family: 'Gloria Hallelujah', cursive;
+ }
+
+svg{
+  display: block;
+  margin: auto;
+}
+ 
+h1 {
+font-family: 'Satisfy', cursive;
+}
+
+img {
+max-width: 100%;
+}
+
+.marg{
+  margin-right: 2em;
+
+}
